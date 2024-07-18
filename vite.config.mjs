@@ -41,9 +41,9 @@ export default defineConfig({
         // 簡短的名字(桌面顯示)
         short_name: '番茄鐘',
         // 工具列顏色
-        theme_color: '#ffa7a7',
+        theme_color: '#000000',
         // 啟動畫面背景色
-        background_color: '#ffa7a7',
+        background_color: '#000000',
         // 啟動網址
         start_url: './',
         // PWA 範圍，超出範圍會用瀏覽器顯示
