@@ -4,7 +4,7 @@ name: Deploy
 on:
   push:
     # 要先確認是 master還是main
-    branches: [master]
+    branches: [main]
 # 執行的工作
 jobs:
   # 工作名稱 自定義
